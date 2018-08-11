@@ -148,7 +148,7 @@ I then randomly shuffled the training data set prior to training the model. The 
 
 ![alt text][image8]
 
-The video of the vehicle driving autonomously in the simulator using the trained model is given [here](./video.mp4)
+The video of the vehicle driving autonomously in the simulator using the trained model is given [here.](./video.mp4)
 
 <!---<video width="320" height="240" controls>
   <source src="video.mp4" type="video/mp4">
