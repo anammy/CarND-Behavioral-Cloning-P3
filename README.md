@@ -150,6 +150,8 @@ I then randomly shuffled the training data set prior to training the model. The 
 
 The following is video of the vehicle driving autonomously in the simulator using the trained model.
 
-<video width="320" height="240" controls>
+[[https://github.com/anammy/CarND-Behavioral-Cloning-P3/blob/master/video.mp4]]
+
+<!---<video width="320" height="240" controls>
   <source src="video.mp4" type="video/mp4">
-</video>
+</video>-->
