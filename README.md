@@ -21,7 +21,6 @@ The goals / steps of this project are the following:
 [image6]: ./figures/Trainingdatasetdistrib.jpg "TrainingDataSetOriginal"
 [image7]: ./figures/Trainingdatasetdistrib_augment_batch.jpg "TrainingDataSetAugmented"
 [image8]: ./figures/mse.jpg "MSE"
-[video1]: ./video.mp4
 
 <!---## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.--->  
@@ -149,9 +148,7 @@ I then randomly shuffled the training data set prior to training the model. The 
 
 ![alt text][image8]
 
-The following is video of the vehicle driving autonomously in the simulator using the trained model.
-
-![alt text][video1]
+The video of the vehicle driving autonomously in the simulator using the trained model is given [here](./video.mp4)
 
 <!---<video width="320" height="240" controls>
   <source src="video.mp4" type="video/mp4">
